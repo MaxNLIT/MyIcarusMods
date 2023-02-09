@@ -1,5 +1,5 @@
 # Recipe QoL
-*__Welcome to MyIcarusMods__*: Mods for Icarus by MaxNLIT
+*__Welcome to MyIcarusMods__*: My collection of mods for the game: Icarus The Survival. Made by *__MaxNLIT__*
 
 * [Important Warnings - Please Read](#warnings)
 * [Shout-outs](#shouts)
