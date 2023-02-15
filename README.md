@@ -28,31 +28,31 @@
 
 ---
 
-### 1. <a name="1">__BackPack Larkwell QoL__</a> (Direct link: https://github.com/MaxNLIT/MyIcarusMods/tree/main/BackPackLarkwell_QoL)
+### 1. <a name="1">__BackPack Larkwell QoL__</a> [Direct link](https://github.com/MaxNLIT/MyIcarusMods/tree/main/BackPackLarkwell_QoL)
 
 -- [*__Return to mod list__*](#modlist)
 
 ---
 
-### 2. <a name="2">__Food QoL__</a> (Direct link: https://bit.ly/CKDsupersuits)
+### 2. <a name="2">__Food QoL__</a> [Direct link](https://bit.ly/CKDsupersuits)
 
 -- [*__Return to mod list__*](#modlist)
 
 ---
 
-### 3. <a name="3">__Energy QoL__</a> (Direct link: https://bit.ly/CKDcombo)
+### 3. <a name="3">__Energy QoL__</a> [Direct link](https://bit.ly/CKDsupersuits)
 
 -- [*__Return to mod list__*](#modlist)
 
 ---
 
-### 4. <a name="4">__Talent Cheat__</a> (Direct link: https://bit.ly/CKDstatues)
+### 4. <a name="4">__Talent Cheat__</a> [Direct link](https://bit.ly/CKDsupersuits)
 
 -- [*__Return to mod list__*](#modlist)
 
 ---
 
-### 5. <a name="5">__Recipes QoL__</a> (Direct link: https://github.com/MaxNLIT/MyIcarusMods/tree/main/Recipes_QoL)
+### 5. <a name="5">__Recipes QoL__</a> [Direct link](https://github.com/MaxNLIT/MyIcarusMods/tree/main/Recipes_QoL)
 
 Change the following recipes to reduce the grinding:
 * Epoxy (both Recipes)
@@ -67,7 +67,7 @@ Change the following recipes to reduce the grinding:
 
 ---
 
-### 6. <a name="6">__Deep Deposit QoL__</a> (Direct link: https://bit.ly/CKDmaxistax)
+### 6. <a name="6">__Deep Deposit QoL__</a> [Direct link](https://bit.ly/CKDsupersuits)
 
 -- [*__Return to mod list__*](#modlist)
 
