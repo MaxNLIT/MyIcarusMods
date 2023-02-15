@@ -71,9 +71,6 @@ Change the following recipes to reduce the grinding:
 
 ---
 
-
----
-
 ### <a name="99">__Deprecated mods:__</a>
 
 These mods are no longer in use, and I won't be updating them:
@@ -82,8 +79,6 @@ These mods are no longer in use, and I won't be updating them:
 
 ---
 
-
----
 
 ## <a name="warnings">*__WARNINGS:__*</a>
 
