@@ -29,6 +29,8 @@
 
 ### 1. <a name="1">__BackPack Larkwell QoL__</a>
 
+Change some of the "modifier" of the Larkwell Backpack mainly for extraction purpose.
+
 ###### [Direct link](https://github.com/MaxNLIT/MyIcarusMods/tree/main/BackPackLarkwell_QoL)
 -- [*__Return to mod list__*](#modlist)
 
@@ -41,14 +43,14 @@
 
 ---
 
-### 3. <a name="3">__Energy QoL__</a> [Direct link](https://bit.ly/CKDsupersuits)
+### 3. <a name="3">__Energy QoL__</a>
 
 ###### [Direct link](https://bit.ly/CKDsupersuits)
 -- [*__Return to mod list__*](#modlist)
 
 ---
 
-### 4. <a name="4">__Talent Cheat__</a> [Direct link](https://bit.ly/CKDsupersuits)
+### 4. <a name="4">__Talent Cheat__</a>
 
 ###### [Direct link](https://bit.ly/CKDsupersuits)
 -- [*__Return to mod list__*](#modlist)
@@ -71,7 +73,7 @@ Change the following recipes to reduce the grinding:
 
 ---
 
-### 6. <a name="6">__Deep Deposit QoL__</a> [Direct link](https://bit.ly/CKDsupersuits)
+### 6. <a name="6">__Deep Deposit QoL__</a>
 
 ###### [Direct link](https://bit.ly/CKDsupersuits)
 -- [*__Return to mod list__*](#modlist)
