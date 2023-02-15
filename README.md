@@ -12,7 +12,45 @@
 **I am not obligated to help you solve problems that arise when using the mods.**
 ---
 
-**Recipes Quality of Life** 
+<a name="modlist">MODS:</a>
+
+1. [BackPack Larkwell QoL](#1)
+2. [Food QoL](#2)
+3. [Energy QoL](#3)
+4. [Talent Cheat](#4)
+5. [Recipes QoL](#5)
+6. [Deep Deposit QoL](#6)
+
+* [Deprecated mods - no longer in use](#25)
+
+---
+---
+
+1. <a name="1">__BackPack Larkwell QoL__</a> (Direct link: https://bit.ly/CKDsupersuits)
+
+-- [*__Return to mod list__*](#modlist)
+
+---
+
+2. <a name="2">__Food QoL__</a> (Direct link: https://bit.ly/CKDsupersuits)
+
+-- [*__Return to mod list__*](#modlist)
+
+---
+
+3. <a name="3">__Energy QoL__</a> (Direct link: https://bit.ly/CKDcombo)
+
+-- [*__Return to mod list__*](#modlist)
+
+---
+
+4. <a name="4">__Talent Cheat</a> (Direct link: https://bit.ly/CKDstatues)
+
+-- [*__Return to mod list__*](#modlist)
+
+---
+
+5. <a name="5">__Recipes QoL__</a> (Direct link: https://bit.ly/CKDpoisonfish)
 
 Change the following recipes to reduce the grinding:
 * Epoxy (both Recipes)
@@ -23,18 +61,27 @@ Change the following recipes to reduce the grinding:
 * Steel Rebar
 * Hydro Crop Plot
 
+-- [*__Return to mod list__*](#modlist)
+
 ---
 
-**Recipes Quality of Life** 
+6. <a name="6">__Deep Deposit QoL__</a> (Direct link: https://bit.ly/CKDmaxistax)
 
-Change the following recipes to reduce the grinding:
-*Epoxy (both Recipes)
-*Carbon Paste
-*Electronics
-*Concrete Mix
-*Crushed Bones
-*Steel Rebar
-*Hydro Crop Plot
+-- [*__Return to mod list__*](#modlist)
+
+---
+
+
+---
+
+<a name="25">__Deprecated mods:__</a>
+
+These mods are no longer in use, and I won't be updating them:
+* ""
+* "" 
+
+---
+
 
 ---
 
