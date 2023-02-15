@@ -50,7 +50,9 @@ Change some of the "modifier" of the Larkwell Backpack mainly for extraction pur
 
 ---
 
-### 4. <a name="4">__Talent Cheat__</a>
+### 4. <a name="4">__Talent QoL__</a>
+
+Change some of the "talents" of increase to 80% the probability of one hit collection of ores, rocks and tree.
 
 ###### [Direct link](https://bit.ly/CKDsupersuits)
 -- [*__Return to mod list__*](#modlist)

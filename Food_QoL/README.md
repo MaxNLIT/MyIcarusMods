@@ -1,4 +1,4 @@
-# Recipe QoL
+# Food QoL
 *__Welcome to MyIcarusMods__*: My collection of mods for the game: Icarus The Survival. Made by *__MaxNLIT__*
 
 * [Important Warnings - Please Read](#warnings)
@@ -14,42 +14,21 @@
 
 ---
 
-## **Recipes quality of life mod** 
+## **Food quality of life mod** 
 
-Change the following recipes to reduce the grinding:
+Change the spoiling time and effect (Buff) duration of the following foods:
 
-**Epoxy (both Recipes):**
-  * X5 Output (was X1)
+**Vegetable Pie:**
+* xxxxx
 
-**Carbon Paste:**
-* Silica: 1 (was ...)
-* Aluminium: 1 (was ...)
-* Organic Resin: 2 (was ...)
-* Expoxy: 2 (was ...)
-  * X5 Output (was ...)
+**Meet Pie:**
+* xxxxx
 
-**Electronics:**
-* Refined Gold: 1 (was ...)
-* Refined Copper: 2 (was ...)
-* Organic Resin: 2 (was ...)
-* Expoxy: 2 (was ...)
-  * X5 Output (was ...)
+**Fruit salad:**
+* xxxxx
 
-**Concrete Mix:**
-  * X10 Output (was X1)
-
-**Crushed Bones:**
-* Bone: 1 (was ...)
-  * X4 Output (was ...)
-
-**Steel Rebar:**
-  * X100 Output (was X1)
-
-**Hydro Crop Plot:**
-* Composites: 2 (was: ...)
-* Steel Ingot: 2 (was ...)
-* Steel Screw: 1 (was ...)
-* Electronics: 1 (was ...)
+**Wine:**
+* xxxxx
 
 ---
 

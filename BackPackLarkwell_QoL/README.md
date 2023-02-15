@@ -14,7 +14,7 @@
 
 ---
 
-## **Larkwell Backpack Quality of Life** 
+## **Larkwell Backpack quality of life mod** 
 
 Change some of the "modifier" of the Larkwell Backpack mainly for extraction purpose.
 
@@ -26,7 +26,7 @@ Change some of the "modifier" of the Larkwell Backpack mainly for extraction pur
 
 ---
 
-<a name="warnings">*__WARNINGS:__*</a>
+## <a name="warnings">*__WARNINGS:__*</a>
 
 * These mod may conflict with other mods! Recommended to use alone, or with mods known not to change the files listed for each mod.
 * Instead of placing mods in your mod folder, using [Mod Manager](https://github.com/Jimk72/Icarus_Software) is highly recommended!
@@ -34,14 +34,14 @@ Change some of the "modifier" of the Larkwell Backpack mainly for extraction pur
 
 ---
 
-<a name="shouts">__SHOUT-OUT__</a> 
+## <a name="shouts">__SHOUT-OUT__</a> 
 
 * A Huge shout-out to all the rock-steady modders. Thank you all for the tips, inspiration, and ongoing work to improve Icarus!
 * These mods are free to use
 
 ---
 
-<a name="install">__INSTALLATION:__</a>
+## <a name="install">__INSTALLATION:__</a>
 
 * Go to \Icarus\Content\Paks\mods. If there is no mods folder, create one inside Paks
 * Download .pak file from here and put it in the mods folder.

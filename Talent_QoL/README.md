@@ -1,4 +1,4 @@
-# Recipe QoL
+# Talents QoL
 *__Welcome to MyIcarusMods__*: My collection of mods for the game: Icarus The Survival. Made by *__MaxNLIT__*
 
 * [Important Warnings - Please Read](#warnings)
@@ -14,42 +14,12 @@
 
 ---
 
-## **Recipes quality of life mod** 
+## **talents quality of life mod** 
 
-Change the following recipes to reduce the grinding:
+Change the following talents to improve mining ores and rocks, and cutting trees:
 
-**Epoxy (both Recipes):**
-  * X5 Output (was X1)
-
-**Carbon Paste:**
-* Silica: 1 (was ...)
-* Aluminium: 1 (was ...)
-* Organic Resin: 2 (was ...)
-* Expoxy: 2 (was ...)
-  * X5 Output (was ...)
-
-**Electronics:**
-* Refined Gold: 1 (was ...)
-* Refined Copper: 2 (was ...)
-* Organic Resin: 2 (was ...)
-* Expoxy: 2 (was ...)
-  * X5 Output (was ...)
-
-**Concrete Mix:**
-  * X10 Output (was X1)
-
-**Crushed Bones:**
-* Bone: 1 (was ...)
-  * X4 Output (was ...)
-
-**Steel Rebar:**
-  * X100 Output (was X1)
-
-**Hydro Crop Plot:**
-* Composites: 2 (was: ...)
-* Steel Ingot: 2 (was ...)
-* Steel Screw: 1 (was ...)
-* Electronics: 1 (was ...)
+* OneHitOre: 1 (was ...)
+* OneHitTree: 1 (was ...)
 
 ---
 

@@ -1,4 +1,4 @@
-# Recipe QoL
+# Deep Deposit QoL
 *__Welcome to MyIcarusMods__*: My collection of mods for the game: Icarus The Survival. Made by *__MaxNLIT__*
 
 * [Important Warnings - Please Read](#warnings)
@@ -14,42 +14,27 @@
 
 ---
 
-## **Recipes quality of life mod** 
+## **Deep Deposit and "Rocks" mining quality of life mod** 
 
-Change the following recipes to reduce the grinding:
+Change ore settings to increase the yield, and speed up the extraction:
 
-**Epoxy (both Recipes):**
-  * X5 Output (was X1)
+**Iron Deep Deposit:**
+* xxxxx
 
-**Carbon Paste:**
-* Silica: 1 (was ...)
-* Aluminium: 1 (was ...)
-* Organic Resin: 2 (was ...)
-* Expoxy: 2 (was ...)
-  * X5 Output (was ...)
+**Copper Deep Deposit:**
+* xxxxx
 
-**Electronics:**
-* Refined Gold: 1 (was ...)
-* Refined Copper: 2 (was ...)
-* Organic Resin: 2 (was ...)
-* Expoxy: 2 (was ...)
-  * X5 Output (was ...)
+**Gold Deep Deposit:**
+* xxxxx
 
-**Concrete Mix:**
-  * X10 Output (was X1)
+**Aluminium:**
+* xxxxx
 
-**Crushed Bones:**
-* Bone: 1 (was ...)
-  * X4 Output (was ...)
+**Silica:**
+* xxxxx
 
-**Steel Rebar:**
-  * X100 Output (was X1)
-
-**Hydro Crop Plot:**
-* Composites: 2 (was: ...)
-* Steel Ingot: 2 (was ...)
-* Steel Screw: 1 (was ...)
-* Electronics: 1 (was ...)
+**Sulfur:**
+* xxxxx
 
 ---
 
