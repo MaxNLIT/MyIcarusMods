@@ -75,6 +75,8 @@ Change the following recipes to reduce the grinding:
 
 ### 6. <a name="6">__Deep Deposit QoL__</a>
 
+Change ore settings to increase the yield and speed up the extraction.
+
 ###### [Direct link](https://bit.ly/CKDsupersuits)
 -- [*__Return to mod list__*](#modlist)
 
