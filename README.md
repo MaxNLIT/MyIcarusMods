@@ -26,7 +26,7 @@
 ---
 ---
 
-### 1. BackPack Larkwell QoL <a name="1">__BackPack Larkwell QoL__</a> (Direct link: https://bit.ly/CKDsupersuits)
+### 1. <a name="1">__BackPack Larkwell QoL__</a> (Direct link: https://bit.ly/CKDsupersuits)
 
 -- [*__Return to mod list__*](#modlist)
 
