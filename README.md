@@ -14,7 +14,6 @@
 
 ---
 
-
 ## <a name="modlist">MODS:</a>
 
 1. [BackPack Larkwell QoL](#1)
@@ -35,25 +34,28 @@
 
 ---
 
-### 2. <a name="2">__Food QoL__</a> [Direct link](https://bit.ly/CKDsupersuits)
+### 2. <a name="2">__Food QoL__</a> 
 
+###### [Direct link](https://bit.ly/CKDsupersuits)
 -- [*__Return to mod list__*](#modlist)
 
 ---
 
 ### 3. <a name="3">__Energy QoL__</a> [Direct link](https://bit.ly/CKDsupersuits)
 
+###### [Direct link](https://bit.ly/CKDsupersuits)
 -- [*__Return to mod list__*](#modlist)
 
 ---
 
 ### 4. <a name="4">__Talent Cheat__</a> [Direct link](https://bit.ly/CKDsupersuits)
 
+###### [Direct link](https://bit.ly/CKDsupersuits)
 -- [*__Return to mod list__*](#modlist)
 
 ---
 
-### 5. <a name="5">__Recipes QoL__</a> [Direct link](https://github.com/MaxNLIT/MyIcarusMods/tree/main/Recipes_QoL)
+### 5. <a name="5">__Recipes QoL__</a>
 
 Change the following recipes to reduce the grinding:
 * Epoxy (both Recipes)
@@ -64,12 +66,14 @@ Change the following recipes to reduce the grinding:
 * Steel Rebar
 * Hydro Crop Plot
 
+###### [Direct link](https://github.com/MaxNLIT/MyIcarusMods/tree/main/Recipes_QoL)
 -- [*__Return to mod list__*](#modlist)
 
 ---
 
 ### 6. <a name="6">__Deep Deposit QoL__</a> [Direct link](https://bit.ly/CKDsupersuits)
 
+###### [Direct link](https://bit.ly/CKDsupersuits)
 -- [*__Return to mod list__*](#modlist)
 
 ---
