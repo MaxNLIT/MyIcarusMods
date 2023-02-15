@@ -1,50 +1,28 @@
-# Recipe QoL
-*__Welcome to MyIcarusMods__*: Mods for Icarus by MaxNLIT
+# Backpack Larkwell QoL
+*__Welcome to MyIcarusMods__*: My collection of mods for the game: Icarus The Survival. Made by *__MaxNLIT__*
 
 * [Important Warnings - Please Read](#warnings)
 * [Shout-outs](#shouts)
 * [Installation](#install)
 
 ---
-**I am not guilty of anything. Anyway. Whatever happens. All responsibility for using the mods lies solely with you. I am not obliged to comply with your wishes and suggestions. I am not obligated to help you solve problems that arise when using the mods.**
+
+**I am not guilty of anything. Anyway. Whatever happens.**
+**All responsibility for using the mods lies solely with you.**
+**I am not obliged to comply with your wishes and suggestions.**
+**I am not obligated to help you solve problems that arise when using the mods.**
 
 ---
-**Recipes Quality of Life** 
 
-Change the following recipes to reduce the grinding:
+## **Larkwell Backpack Quality of Life** 
 
-**Epoxy (both Recipes):**
-  * X5 Output (was X1)
+Change some of the "modifier" of the Larkwell Backpack mainly for extraction purpose.
 
-**Carbon Paste:**
-* Silica: 1 (was ...)
-* Aluminium: 1 (was ...)
-* Organic Resin: 2 (was ...)
-* Expoxy: 2 (was ...)
-  * X5 Output (was ...)
-
-**Electronics:**
-* Refined Gold: 1 (was ...)
-* Refined Copper: 2 (was ...)
-* Organic Resin: 2 (was ...)
-* Expoxy: 2 (was ...)
-  * X5 Output (was ...)
-
-**Concrete Mix:**
-  * X10 Output (was X1)
-
-**Crushed Bones:**
-* Bone: 1 (was ...)
-  * X4 Output (was ...)
-
-**Steel Rebar:**
-  * X100 Output (was X1)
-
-**Hydro Crop Plot:**
-* Composites: 2 (was: ...)
-* Steel Ingot: 2 (was ...)
-* Steel Screw: 1 (was ...)
-* Electronics: 1 (was ...)
+* Backpack Slots +24
+* Ore Carry Weight -50%
+* Wood Carry Weight -50%
+* Exotic Carry Weight -50%
+* Stone Carry Weight -50%
 
 ---
 

@@ -1,15 +1,20 @@
 # Recipe QoL
-*__Welcome to MyIcarusMods__*: Mods for Icarus by MaxNLIT
+*__Welcome to MyIcarusMods__*: My collection of mods for the game: Icarus The Survival. Made by *__MaxNLIT__*
 
 * [Important Warnings - Please Read](#warnings)
 * [Shout-outs](#shouts)
 * [Installation](#install)
 
 ---
-**I am not guilty of anything. Anyway. Whatever happens. All responsibility for using the mods lies solely with you. I am not obliged to comply with your wishes and suggestions. I am not obligated to help you solve problems that arise when using the mods.**
+
+**I am not guilty of anything. Anyway. Whatever happens.**
+**All responsibility for using the mods lies solely with you.**
+**I am not obliged to comply with your wishes and suggestions.**
+**I am not obligated to help you solve problems that arise when using the mods.**
 
 ---
-**Recipes Quality of Life** 
+
+## **Recipes Quality of Life** 
 
 Change the following recipes to reduce the grinding:
 
