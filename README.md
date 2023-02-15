@@ -28,7 +28,8 @@
 
 ---
 
-### 1. <a name="1">__BackPack Larkwell QoL__</a> [Direct link](https://github.com/MaxNLIT/MyIcarusMods/tree/main/BackPackLarkwell_QoL)
+### 1. <a name="1">__BackPack Larkwell QoL__</a>
+###### [Direct link](https://github.com/MaxNLIT/MyIcarusMods/tree/main/BackPackLarkwell_QoL)
 
 -- [*__Return to mod list__*](#modlist)
 
