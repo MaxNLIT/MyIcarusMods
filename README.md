@@ -9,7 +9,7 @@
 
 **I am not guilty of anything. Anyway. Whatever happens.**
 **All responsibility for using the mods lies solely with you.**
-**I am not obliged to comply with your wishes and suggestions.**
+**I am not obligated to comply with your wishes and suggestions.**
 **I am not obligated to help you solve problems that arise when using the mods.**
 
 ---
@@ -38,23 +38,38 @@ Change some of the "modifier" of the Larkwell Backpack mainly for extraction pur
 
 ### 2. <a name="2">__Food QoL__</a> 
 
-###### [Direct link](https://bit.ly/CKDsupersuits)
+Change the spoiling time and the effect (Buff) duration of the following foods:
+
+* Vegetable Pie
+* Meet Pie
+* Fruit salad
+* Wine
+
+###### [Direct link](https://github.com/MaxNLIT/MyIcarusMods/tree/main/Food_QoL)
 -- [*__Return to mod list__*](#modlist)
 
 ---
 
 ### 3. <a name="3">__Energy QoL__</a>
 
-###### [Direct link](https://bit.ly/CKDsupersuits)
+Increase the power generation of the following generators:
+* Biofuel
+* Hydro
+* Solar
+
+###### [Direct link](https://github.com/MaxNLIT/MyIcarusMods/tree/main/Energy_QoL)
 -- [*__Return to mod list__*](#modlist)
 
 ---
 
 ### 4. <a name="4">__Talent QoL__</a>
 
-Change some of the "talents" of increase to 80% the probability of one hit collection of ores, rocks and tree.
+Change some of the "talents" to increase to 80% the probability of one hit collection of:
+* ores
+* rocks
+* trees
 
-###### [Direct link](https://bit.ly/CKDsupersuits)
+###### [Direct link](https://github.com/MaxNLIT/MyIcarusMods/tree/main/Talent_QoL)
 -- [*__Return to mod list__*](#modlist)
 
 ---
@@ -77,9 +92,18 @@ Change the following recipes to reduce the grinding:
 
 ### 6. <a name="6">__Deep Deposit QoL__</a>
 
-Change ore settings to increase the yield and speed up the extraction.
+Change ore settings to increase the yield and to reduce the extraction time of:
+* Iron Ore
+* Copper
+* Aluminium
+* Gold
+* Platinum
+* Titanium
+* Oxyte
+* Silica
+* Sulfur
 
-###### [Direct link](https://bit.ly/CKDsupersuits)
+###### [Direct link](https://github.com/MaxNLIT/MyIcarusMods/tree/main/DeepDeposit_QoL)
 -- [*__Return to mod list__*](#modlist)
 
 ---

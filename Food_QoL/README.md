@@ -9,7 +9,7 @@
 
 **I am not guilty of anything. Anyway. Whatever happens.**
 **All responsibility for using the mods lies solely with you.**
-**I am not obliged to comply with your wishes and suggestions.**
+**I am not obligated to comply with your wishes and suggestions.**
 **I am not obligated to help you solve problems that arise when using the mods.**
 
 ---
