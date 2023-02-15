@@ -6,45 +6,35 @@
 * [Installation](#install)
 
 ---
-**I am not guilty of anything. Anyway. Whatever happens. All responsibility for using the mods lies solely with you. I am not obliged to comply with your wishes and suggestions. I am not obligated to help you solve problems that arise when using the mods.**
-
+**I am not guilty of anything. Anyway. Whatever happens.**
+**All responsibility for using the mods lies solely with you.
+**I am not obliged to comply with your wishes and suggestions.**
+**I am not obligated to help you solve problems that arise when using the mods.**
 ---
+
 **Recipes Quality of Life** 
 
 Change the following recipes to reduce the grinding:
+*Epoxy (both Recipes)
+*Carbon Paste
+*Electronics
+*Concrete Mix
+*Crushed Bones
+*Steel Rebar
+*Hydro Crop Plot
 
-**Epoxy (both Recipes):**
-  * X5 Output (was X1)
+---
 
-**Carbon Paste:**
-* Silica: 1 (was ...)
-* Aluminium: 1 (was ...)
-* Organic Resin: 2 (was ...)
-* Expoxy: 2 (was ...)
-  * X5 Output (was ...)
+**Recipes Quality of Life** 
 
-**Electronics:**
-* Refined Gold: 1 (was ...)
-* Refined Copper: 2 (was ...)
-* Organic Resin: 2 (was ...)
-* Expoxy: 2 (was ...)
-  * X5 Output (was ...)
-
-**Concrete Mix:**
-  * X10 Output (was X1)
-
-**Crushed Bones:**
-* Bone: 1 (was ...)
-  * X4 Output (was ...)
-
-**Steel Rebar:**
-  * X100 Output (was X1)
-
-**Hydro Crop Plot:**
-* Composites: 2 (was: ...)
-* Steel Ingot: 2 (was ...)
-* Steel Screw: 1 (was ...)
-* Electronics: 1 (was ...)
+Change the following recipes to reduce the grinding:
+*Epoxy (both Recipes)
+*Carbon Paste
+*Electronics
+*Concrete Mix
+*Crushed Bones
+*Steel Rebar
+*Hydro Crop Plot
 
 ---
 
