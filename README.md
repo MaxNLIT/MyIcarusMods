@@ -24,7 +24,6 @@
 * [Deprecated mods - no longer in use](#99)
 
 ---
----
 
 ### 1. <a name="1">__BackPack Larkwell QoL__</a> (Direct link: https://bit.ly/CKDsupersuits)
 
