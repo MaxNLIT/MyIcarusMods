@@ -32,7 +32,7 @@
 
 ---
 
-###2. <a name="2">__Food QoL__</a> (Direct link: https://bit.ly/CKDsupersuits)
+2. <a name="2">###__Food QoL__</a> (Direct link: https://bit.ly/CKDsupersuits)
 
 -- [*__Return to mod list__*](#modlist)
 
