@@ -28,7 +28,7 @@
 
 ---
 
-### 1. <a name="1">__BackPack Larkwell QoL__</a> (Direct link: https://bit.ly/CKDsupersuits)
+### 1. <a name="1">__BackPack Larkwell QoL__</a> (Direct link: https://github.com/MaxNLIT/MyIcarusMods/tree/main/BackPackLarkwell_QoL)
 
 -- [*__Return to mod list__*](#modlist)
 
@@ -52,7 +52,7 @@
 
 ---
 
-### 5. <a name="5">__Recipes QoL__</a> (Direct link: https://bit.ly/CKDpoisonfish)
+### 5. <a name="5">__Recipes QoL__</a> (Direct link: https://github.com/MaxNLIT/MyIcarusMods/tree/main/Recipes_QoL)
 
 Change the following recipes to reduce the grinding:
 * Epoxy (both Recipes)
