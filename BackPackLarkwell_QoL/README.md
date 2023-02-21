@@ -1,4 +1,4 @@
-# Backpack Larkwell QoL
+# Larkwell Martinez tactical backpack QoL Mod
 *__Welcome to MyIcarusMods__*: My collection of mods for the game: Icarus The Survival. Made by *__MaxNLIT__*
 
 * [Important Warnings - Please Read](#warnings)
@@ -14,7 +14,7 @@
 
 ---
 
-## **Larkwell Backpack quality of life mod** 
+## **Larkwell Martinez tactical backpack Quolity of Life Mod** 
 
 Change some of the "modifier" of the Larkwell Backpack mainly for extraction purpose.
 
