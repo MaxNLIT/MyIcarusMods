@@ -14,6 +14,11 @@
 
 ---
 
+![alt text][logo]
+[logo]: https://github.com/MaxNLIT/MyIcarusMods/raw/main/BackPackLarkwell_QoL/BackpackQoL.png "Logo Title Text 2"
+
+---
+
 ## **Larkwell Backpack quality of life mod** 
 
 Change some of the "modifier" of the Larkwell Backpack mainly for extraction purpose.
