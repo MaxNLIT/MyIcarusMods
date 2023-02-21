@@ -1,9 +1,5 @@
-# Backpack Larkwell QoL
-*__Welcome to MyIcarusMods__*: My collection of mods for the game: Icarus The Survival. Made by *__MaxNLIT__*
 
-* [Important Warnings - Please Read](#warnings)
-* [Shout-outs](#shouts)
-* [Installation](#install)
+
 
 ---
 
@@ -14,9 +10,13 @@
 
 ---
 
-| First Header  | Second Header |
+| # Backpack Larkwell QoL  |     |
 | ------------- | ------------- |
-| ![alt text](https://github.com/MaxNLIT/MyIcarusMods/raw/main/BackPackLarkwell_QoL/BackpackQoL.png "Logo Title Text 2")  | Content Cell  |
+| ![alt text](https://github.com/MaxNLIT/MyIcarusMods/raw/main/BackPackLarkwell_QoL/BackpackQoL.png "Logo Title Text 2")  | *__Welcome to MyIcarusMods__*: My collection of mods for the game: Icarus The Survival. Made by *__MaxNLIT__*
+
+* [Important Warnings - Please Read](#warnings)
+* [Shout-outs](#shouts)
+* [Installation](#install) |
 | Content Cell  | Content Cell  |
 
 ---
