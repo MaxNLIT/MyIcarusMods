@@ -14,8 +14,7 @@
 
 ---
 
-![alt text][logo]
-[logo]: https://github.com/MaxNLIT/MyIcarusMods/raw/main/BackPackLarkwell_QoL/BackpackQoL.png "Logo Title Text 2"
+![alt text](https://github.com/MaxNLIT/MyIcarusMods/raw/main/BackPackLarkwell_QoL/BackpackQoL.png "Logo Title Text 2")
 
 ---
 
