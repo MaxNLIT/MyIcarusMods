@@ -14,7 +14,10 @@
 
 ---
 
-![alt text](https://github.com/MaxNLIT/MyIcarusMods/raw/main/BackPackLarkwell_QoL/BackpackQoL.png "Logo Title Text 2")
+| First Header  | Second Header |
+| ------------- | ------------- |
+| ![alt text](https://github.com/MaxNLIT/MyIcarusMods/raw/main/BackPackLarkwell_QoL/BackpackQoL.png "Logo Title Text 2")  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 ---
 
